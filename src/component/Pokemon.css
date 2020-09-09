@@ -1,0 +1,22 @@
+.ovflw{
+    overflow-x: scroll
+}
+.imgPok{
+    width: 400px;
+}
+div a{
+    color: black;
+}
+.move{
+    height: 260px;
+    overflow: scroll;
+}
+.imgPoke{
+    width: 200px;
+}
+.imgPokemon{
+    width: 500px;
+}
+.pokeBall{
+    width: 100px;
+}
